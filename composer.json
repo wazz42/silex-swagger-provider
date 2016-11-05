@@ -1,5 +1,5 @@
 {
-    "name": "jdesrosiers/silex-swagger-provider",
+    "name": "wazz42/silex-swagger-provider",
     "description": "A silex service provider that integrates swagger-php into silex",
     "keywords": ["silex", "swagger", "swagger-ui", "service", "provider"],
     "license": "MIT",
